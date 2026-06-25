@@ -86,8 +86,8 @@ python app.py
 
 ## 📸 Screenshot
 
-![Weather Dashboard](weather-dashboard.png)
-![Weather Dashboard Result](weather-dashboard-result.png)
+![Weather Dashboard](screenshots/weather-dashboard.png)
+![Weather Dashboard Result](screenshots/weather-dashboard-result.png)
 
 ---
 
